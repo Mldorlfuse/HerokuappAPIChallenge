@@ -3,7 +3,7 @@
 ![Playwright](https://playwright.dev/img/playwright-logo.svg)
 
 ## 📌 Описание
-Автоматизированные API тесты для веб-приложения [[Saucedemo](https://apichallenges.herokuapp.com/) с использованием [Playwright](https://playwright.dev/).  
+Автоматизированные API тесты для веб-приложения [Saucedemo](https://apichallenges.herokuapp.com/) с использованием [Playwright](https://playwright.dev/).  
 
 Список выполненных челленджей:
 - ✅ Получение токена
